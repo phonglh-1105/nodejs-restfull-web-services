@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "nodemon app.js",
     "serve": "json-server --watch db.json --port 3000"
   },
   "author": "phong-1105",
