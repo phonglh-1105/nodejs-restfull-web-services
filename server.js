@@ -1,9 +1,3 @@
-const products = [
-  { id: 1, name: 'Product 1' },
-  { id: 2, name: 'Product 2' },
-  { id: 3, name: 'Product 3' },
-];
-
 const express = require('express');
 require('dotenv').config({ path: '.env' });
 
